@@ -1,16 +1,26 @@
-## Hi there 👋
+## Yash Mehta
 
-<!--
-**spy-ka-y/spy-ka-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity undergraduate at NMIMS (MPSTME), Mumbai. I work mostly on cloud
+security and detection: what a misconfigured account actually exposes, and how
+you catch a malware variant nobody has labelled yet.
 
-Here are some ideas to get you started:
+**Currently building**
+- `MalXplain` - reproducing and extending a published ML pipeline for detecting
+  new obfuscated malware variants, with an interpretability layer on top
+- `HistoX` - co-founder; a behavioural finance simulator that grades investor
+  discipline against real historical market crashes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Security background**
+- AWS Academy Cloud Security Foundations, plus 13 AWS Skill Builder security
+  courses (IAM, GuardDuty, Detective, Inspector, Security Lake, Incident Response)
+- Google Cloud Computing Foundations, all four tracks
+- Deepfence ThreatMapper (Udacity)
+
+**CTF**
+- Kaalchakra CTF, NFSU - 39th of 296 teams with team SPYVERSE. OSINT, Web and
+  AI tracks. One of 7 teams to clear three full categories.
+
+**Stack** - Python, Java, C++, JavaScript/TypeScript, SQL · scikit-learn, pandas ·
+AWS, GCP · React, Node, Supabase · Burp Suite, Wireshark, Nmap, Kali
+
+[LinkedIn](https://www.linkedin.com/in/yashmehta0316) · mehtayash312@gmail.com
