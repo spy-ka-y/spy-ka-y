@@ -7,6 +7,8 @@ you catch a malware variant nobody has labelled yet.
 **Currently building**
 - `MalXplain` - reproducing and extending a published ML pipeline for detecting
   new obfuscated malware variants, with an interpretability layer on top
+- `Executive-OS` - a decision-intelligence platform: statistical analysis of company
+  data, ONNX risk and forecast models, and an LLM boardroom on Aurora and Bedrock
 - `HistoX` - co-founder; a behavioural finance simulator that grades investor
   discipline against real historical market crashes
 
@@ -23,4 +25,4 @@ you catch a malware variant nobody has labelled yet.
 **Stack** - Python, Java, C++, JavaScript/TypeScript, SQL · scikit-learn, pandas ·
 AWS, GCP · React, Node, Supabase · Burp Suite, Wireshark, Nmap, Kali
 
-[LinkedIn](https://www.linkedin.com/in/yashmehta0316) · mehtayash312@gmail.com
+[LinkedIn](https://www.linkedin.com/in/yashmehta0316) · mehtayash0312@gmail.com
